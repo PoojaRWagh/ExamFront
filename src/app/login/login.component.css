@@ -1,0 +1,16 @@
+.text-center{
+    margin: 4px auto;
+}
+.form-group{
+    padding: 15px;
+}
+#login{
+    align-self: center;
+    margin: 3px auto;
+    height: 200px;
+    width: 300px;
+}
+.container{
+    background-color: cornflowerblue;
+    height: 600px;;
+}

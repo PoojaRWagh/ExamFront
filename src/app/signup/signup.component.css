@@ -1,0 +1,9 @@
+.form-group{
+    padding: 15px;
+}
+#signup{
+    align-self: center;
+    margin: 3px auto;
+    height: 200px;
+    width: 300px;
+}
